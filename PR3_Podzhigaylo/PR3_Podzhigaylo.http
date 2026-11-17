@@ -1,0 +1,6 @@
+@PR3_Podzhigaylo_HostAddress = http://localhost:5008
+
+GET {{PR3_Podzhigaylo_HostAddress}}/PR3_Podzhigaylo/
+Accept: application/json
+
+###
